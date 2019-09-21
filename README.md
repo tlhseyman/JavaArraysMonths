@@ -1,7 +1,7 @@
 package sample;
 import java.util.Scanner;
 
-public class UdemyDiziAylar {
+public class MonthArrays {
 
   public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
